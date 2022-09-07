@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8307d1b7_002D9d4d_002D41a9_002Db40b_002D16a6d1c351e7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ConfigConverterShould" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;ProjectFile&gt;D3C10DDD-8A9D-465D-92B0-4BDBB318985B/d:Tests/f:ConfigConverterShould.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;D3C10DDD-8A9D-465D-92B0-4BDBB318985B/d:Tests/f:FileReaderShould.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;D3C10DDD-8A9D-465D-92B0-4BDBB318985B/d:Tests/f:SchedulerShould.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,9 @@
+/Users/joebarker/RiderProjects/SchedulerParser/SchedulerParser/bin/Debug/SchedulerParser.exe
+/Users/joebarker/RiderProjects/SchedulerParser/SchedulerParser/bin/Debug/SchedulerParser.pdb
+/Users/joebarker/RiderProjects/SchedulerParser/SchedulerParser/bin/Debug/nunit.framework.dll
+/Users/joebarker/RiderProjects/SchedulerParser/SchedulerParser/bin/Debug/nunit.framework.xml
+/Users/joebarker/RiderProjects/SchedulerParser/SchedulerParser/obj/Debug/SchedulerParser.csprojAssemblyReference.cache
+/Users/joebarker/RiderProjects/SchedulerParser/SchedulerParser/obj/Debug/SchedulerParser.csproj.CoreCompileInputs.cache
+/Users/joebarker/RiderProjects/SchedulerParser/SchedulerParser/obj/Debug/SchedulerParser.csproj.CopyComplete
+/Users/joebarker/RiderProjects/SchedulerParser/SchedulerParser/obj/Debug/SchedulerParser.exe
+/Users/joebarker/RiderProjects/SchedulerParser/SchedulerParser/obj/Debug/SchedulerParser.pdb
