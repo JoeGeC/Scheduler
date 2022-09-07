@@ -54,6 +54,7 @@
     </ItemGroup>
     <ItemGroup>
       <Content Include="ExampleConfig.txt" />
+      <Content Include="ReadMe.txt" />
     </ItemGroup>
     <ItemGroup>
       <None Include="packages.config" />
